@@ -1,0 +1,4 @@
+com\soretrak\springboot\dao\EmployeeDAO.class
+com\soretrak\springboot\model\Employee.class
+com\soretrak\springboot\Repository\EmployeeRepository.class
+com\soretrak\springboot\EmployeeApplication.class
